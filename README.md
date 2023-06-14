@@ -43,21 +43,6 @@ Sigue estos pasos para poner en funcionamiento el sistema:
 6. Accede a la API REST utilizando la siguiente URL base: [URL_BASE].
 7. Utiliza Postman o Swagger para probar las diferentes operaciones disponibles en la API.
 
-¡Listo! Ahora puedes empezar a utilizar el sistema de gestión de intercambio de criptodivisas.
+ Ahora puedes empezar a utilizar el sistema de gestión de intercambio de criptodivisas.
 
-## Contribuciones
-
-Si deseas contribuir a este proyecto, sigue los siguientes pasos:
-
-1. Crea un fork de este repositorio.
-2. Realiza tus modificaciones en tu propio repositorio.
-3. Envía un pull request indicando las mejoras o cambios que has realizado.
-
-Agradecemos tu contribución para hacer de este sistema de gestión de intercambio de criptodivisas una herramienta más robusta y completa.
-
-## Contacto
-
-Si tienes alguna pregunta o consulta, no dudes en ponerte en contacto con nosotros en [correo_electrónico] o a través de [enlace_a_redes_sociales].
-
-¡Gracias por utilizar nuestro sistema de gestión de intercambio de criptodivisas!
 
