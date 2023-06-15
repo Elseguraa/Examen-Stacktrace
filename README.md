@@ -19,7 +19,6 @@ El sistema se ha implementado siguiendo los siguientes lineamientos:
 
 - Framework Java: Se ha utilizado el framework Spring Boot para el desarrollo del sistema.
 - Base de datos relacional: Se ha utilizado una base de datos relacional para el almacenamiento de los datos. Se incluye un script de creación de la base de datos.
-- ORM para el mapeo Objeto-Relacional: Se ha utilizado un ORM (Object-Relational Mapping) para facilitar el mapeo entre las entidades del sistema y la base de datos.
 - API REST: Se ha implementado una API REST que permite realizar las siguientes operaciones:
   - ABM de usuarios.
   - ABM de divisas.
@@ -35,13 +34,11 @@ un conjunto de pruebas para la API REST, que puede ser ejecutado utilizando Post
 
 Sigue estos pasos para poner en funcionamiento el sistema:
 
-1. Clona el repositorio desde GitHub: [URL_DEL_REPOSITORIO]
-2. Asegúrate de tener instalado Java JDK (versión X.X.X) en tu máquina.
-3. Configura la base de datos relacional y ejecuta el script de creación de la base de datos que se proporciona: [RUTA_AL_SCRIPT].
-4. Modifica el archivo de configuración [NOMBRE_DEL_ARCHIVO] para establecer la conexión a la base de datos.
-5. Ejecuta la aplicación utilizando [HERRAMIENTA_DE_BUILD] con el siguiente comando: [COMANDO_DE_EJECUCIÓN].
-6. Accede a la API REST utilizando la siguiente URL base: [URL_BASE].
-7. Utiliza Postman o Swagger para probar las diferentes operaciones disponibles en la API.
+1. Clona el repositorio desde GitHub: https://github.com/Elseguura/Examen-Stacktrace.git
+2. Asegúrate de tener instalado Java JDK (versión 18) en tu máquina.
+3. Configura la base de datos relacional y ejecuta el script de creación de la base de datos que se proporciona: Esta en la carpeta "Base de datos".
+4. Modifica el archivo de configuración "application.properties" para establecer la conexión a la base de datos.
+5. Utiliza Postman o Swagger para probar las diferentes operaciones disponibles en la API.
 
  Ahora puedes empezar a utilizar el sistema de gestión de intercambio de criptodivisas.
 
