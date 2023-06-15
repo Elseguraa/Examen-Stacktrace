@@ -1,4 +1,4 @@
-# README - Sistema de Gestión de Intercambio de Criptodivisas
+# Sistema de Gestión de Intercambio de Criptodivisas
 
 ¡Bienvenido al proyecto de Sistema de Gestión de Intercambio de Criptodivisas! Este sistema está diseñado para permitir a los usuarios realizar intercambios de criptomonedas de manera segura y eficiente. A continuación, encontrarás información sobre las características del sistema, las instrucciones para su puesta en funcionamiento y otras consideraciones importantes.
 
